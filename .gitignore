@@ -1,0 +1,12 @@
+# Backend (Django)
+venv/
+__pycache__/
+*.pyc
+*.sqlite3
+/media/  # Ignora archivos multimedia subidos
+
+# Frontend (React)
+node_modules/
+.env
+.DS_Store
+
